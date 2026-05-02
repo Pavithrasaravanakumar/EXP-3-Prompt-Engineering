@@ -275,6 +275,7 @@ Requires tuning
 Less consistent outputs
 ## 5. Performance Comparison
 <img width="954" height="388" alt="image" src="https://github.com/user-attachments/assets/4624dce1-c82c-44d1-a7a5-8460abc53d88" />
+
 ## 6. Observations
 Claude performs best in deep reasoning tasks
 ChatGPT provides balanced and reliable outputs
@@ -283,15 +284,15 @@ Cohere is suited for structured enterprise use
 Llama is useful for custom deployments
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d19c8183-a133-44c8-a394-aed5502a031b" />
 
-## 8. Key Insights
+## 7. Key Insights
 Prompt clarity directly impacts output quality
 Role-based prompts improve reasoning
 Step-by-step instruction yields better results
-## 9. Future Scope
+## 8. Future Scope
 Integration with AI agents for automation
 Real-time debugging assistants
 Multi-modal problem solving (code + diagrams + voice)
-## 10. Conclusion
+## 9. Conclusion
 Best Overall: ChatGPT
 Best Reasoning: Claude
 Fastest: Gemini
